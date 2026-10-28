@@ -25,7 +25,7 @@ const CONFIG = {
   skills: [
     { category: "Programming and Data Analysis", icon: "code", items: ["Python", "Pandas", "NumPy", "Data Cleaning", "Exploratory Data Analysis"] },
     { category: "Databases", icon: "database", items: ["SQL", "Database Queries", "Data Filtering", "Data Aggregation"] },
-    { category: "Data Visualization", icon: "charts", items: ["Power BI", "Tableau","Microsoft Excel"] },
+    { category: "Data Visualization", icon: "charts", items: ["Power BI", "Tableau", "Microsoft Excel"] },
     { category: "Tools and platforms", icon: "wrench", items: ["Git", "GitHub", "VS Code", "Figma"] }
   ],
 
